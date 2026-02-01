@@ -1,0 +1,13 @@
+model,variant,fuel_type,engine_cc,body_type,transmission,power_bhp,torque_nm,mileage_kmpl,seating_capacity,price_in_lakh,launch_year
+Bolero,B6,Diesel,1493,SUV,Manual,75,210,16.7,7,10.65,2000
+Bolero Neo,N10,Diesel,1493,SUV,Manual,98,260,17.2,7,11.99,2021
+Scorpio Classic,S11,Diesel,2184,SUV,Manual,130,300,15.4,7,17.06,2022
+Scorpio-N,Z8 Diesel 4x4,Diesel,2184,SUV,Manual,175,400,14.0,7,24.51,2022
+Thar,AX Optional Petrol,Petrol,1497,SUV,Manual,118,300,15.2,4,11.35,2020
+Thar,Hard Top Diesel AT,Diesel,2184,SUV,Automatic,130,300,13.0,4,16.77,2020
+XUV300,W8(O) Petrol,Petrol,1197,SUV,Manual,109,200,16.8,5,13.33,2019
+XUV300,W8(O) Diesel,Diesel,1497,SUV,Manual,115,300,20.0,5,14.45,2019
+XUV700,AX5 Petrol,Petrol,1999,SUV,Automatic,197,380,13.2,7,20.2,2021
+XUV700,AX7L Diesel AWD,Diesel,2184,SUV,Automatic,182,450,12.0,7,27.7,2021
+Marazzo,M6 Plus,Diesel,1497,MUV,Manual,121,300,17.3,8,15.35,2018
+Pickup Bolero Pik-Up,HD,Diesel,2523,Pickup,Manual,75,200,13.6,2,9.1,2007
